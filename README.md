@@ -3,8 +3,11 @@
 
 Code for the ACL2021 (Finding) work [**Better Combine Them Together! Integrating Syntactic Constituency and Dependency Representations for Semantic Role Labeling**](https://aclanthology.org/2021.findings-acl.49/)
 
+---------
 
+🎉 Visit the project page here [HeSyFu](https://haofei.vip/HeSyFu-SRL/)
 
+---------
 
 
 ## Data
